@@ -3,14 +3,14 @@
 # Chatbot Demo
 ![App Screenshot](https://github.com/user-attachments/assets/dabe7104-a05d-4a54-a9e9-8bb524bea98b)
 
-Directory structure
+# Directory structure
 ===================
 backend: Contains Python FastAPI backend code
 db: contains the dump of the database. you need to import this into your MySQL db by using MySQL workbench tool
 dialogflow_assets: this has training phrases etc. for our intents
 frontend: website code
 
-Install these modules
+# Install these modules
 ======================
 
 pip install mysql-connector
@@ -18,7 +18,7 @@ pip install "fastapi[all]"
 
 OR just run pip install -r backend/requirements.txt to install both in one shot
 
-To start fastapi backend server
+# To start fastapi backend server
 ================================
 1. Go to backend directory in your command prompt
 2. Run this command: uvicorn main:app --reload
