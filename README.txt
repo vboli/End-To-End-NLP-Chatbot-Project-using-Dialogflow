@@ -1,3 +1,8 @@
+## End-To-End-NLP-Chatbot-Project
+
+# Chatbot Demo
+![App Screenshot](https://github.com/user-attachments/assets/dabe7104-a05d-4a54-a9e9-8bb524bea98b)
+
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
