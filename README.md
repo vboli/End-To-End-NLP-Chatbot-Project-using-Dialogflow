@@ -23,7 +23,7 @@ OR just run pip install -r backend/requirements.txt to install both in one shot
 1. Go to backend directory in your command prompt
 2. Run this command: uvicorn main:app --reload
 
-ngrok for https tunneling
+## ngrok for https tunneling
 ================================
 1. To install ngrok, go to https://ngrok.com/download and install ngrok version that is suitable for your OS
 2. Extract the zip file and place ngrok.exe in a folder.
