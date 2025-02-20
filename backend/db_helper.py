@@ -42,6 +42,7 @@ def insert_order_item(food_item, quantity, order_id):
         cnx.rollback()
 
         return -1
+        
 
 # Function to insert a record into the order_tracking table
 def insert_order_tracking(order_id, status):
